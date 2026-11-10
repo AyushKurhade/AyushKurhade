@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/AyushKurhade/AyushKurhade/main/assets/profile.jpg&w=220&h=220&fit=cover&mask=circle" width="160" alt="Ayush Kurhade" />
 
-# Ayush Kurhade
+# Ayush Satishrao Kurhade
 **AI & Data Science Student · Full-Stack Developer · Data Analyst**
 
 <a href="https://git.io/typing-svg">
