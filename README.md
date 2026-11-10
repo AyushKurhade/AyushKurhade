@@ -57,13 +57,21 @@ public class Ayush {
 ## Skills
 
 ### Data Analysis & Business Intelligence
-`Data Cleaning` · `Data Wrangling` · `Exploratory Data Analysis (EDA)` · `Statistical Analysis` · `KPI Tracking` · `Data Visualization` · `Dashboard Development` · `Business Analysis` · `A/B Testing` · `Hypothesis Testing` · `ETL Processes`
+`Data Cleaning` · `Data Wrangling` · `Exploratory Data Analysis (EDA)` · `Statistical Analysis` · `KPI Tracking` · `Data Visualization` · `Dashboard Development` · `Business Analysis` · `ETL Processes`
+
+
+### Machine Learning
+`Supervised Learning` · `Unsupervised Learning` · `Regression` · `Classification` · `Clustering` · `Linear Regression` · `Logistic Regression` · `Decision Trees` · `Random Forest` ·  `SVM` · `KNN` · `K-Means` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning`
+
+
+### SQL & Database Development
+`SQL` · `Joins` · `Subqueries` · `CTEs` · `Window Functions` · `Aggregations` · `Indexing` · `Query Optimization` · `Stored Procedures` · `Views` · `Database Design` · `Data Modeling`
+
+
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-### SQL & Database Development
-`SQL` · `Joins` · `Subqueries` · `CTEs` · `Window Functions` · `Aggregations` · `Indexing` · `Query Optimization` · `Stored Procedures` · `Views` · `Database Design` · `Data Modeling`
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -85,8 +93,6 @@ public class Ayush {
 <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
-### Machine Learning
-`Supervised Learning` · `Unsupervised Learning` · `Regression` · `Classification` · `Clustering` · `Linear Regression` · `Logistic Regression` · `Decision Trees` · `Random Forest` · `XGBoost` · `SVM` · `KNN` · `K-Means` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning`
 
 ### Web & Full-Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
