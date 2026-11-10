@@ -1,191 +1,150 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-
-<p><sub>RECRUITER SIGNAL BRIEF · ayushkurhade</sub></p>
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/AyushKurhade/AyushKurhade/main/assets/profile.jpg&w=220&h=220&fit=cover&mask=circle" width="160" alt="Ayush Kurhade" />
 
 # Ayush Kurhade
+**AI & Data Science Student · Full-Stack Developer · Data Analyst**
 
-### Software Developer in Progress · Frontend / Full-Stack
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=820&lines=Frontend+%7C+Full-Stack+%7C+Data+Analyst+%7C+ML+Engineer;System.out.println(%22Learning+Java+%26+Spring+Boot%22)%3B;SELECT+insight+FROM+data+WHERE+curiosity+%3D+True%3B;Dashboards%2C+KPIs+%26+Business+Insights+%F0%9F%93%8A;Building+and+sharing+work+in+public+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+<br/><br/>
 
-💻 AI & Data Science Student  
-🚀 Java • Python • SQL • Full Stack Development  
-🧠 Learning Data Structures, Algorithms & Backend Engineering  
-⚙️ Familiar with Business Process Automation & Workflow Optimization  
-🔧 Exploring Git, GitHub, Open Source & Software Engineering Fundamentals
-
-**● Building and sharing work in public**
-
-<sub>Based in Amravati, Maharashtra</sub>
-
-[GitHub](https://github.com/AyushKurhade) &nbsp;·&nbsp; [X](https://x.com/ayush_k_030) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ayushk30)
-
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/140232317?u=274d1630de9cecf6ab2aec2b065877ad117c4c06&v=4" width="180" alt="Ayush Kurhade GitHub avatar" />
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=AyushKurhade&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-22d3ee?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Role-Data%20Analyst-f59e0b?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Role-ML%20Engineer-8b5cf6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 </div>
 
----
+## About Me
 
-## What teams can evaluate quickly
+```java
+public class Ayush {
+    String name      = "Ayush Kurhade";
+    String education = "AI & Data Science Student";
+    String location  = "Amravati, Maharashtra, India";
+    String[] roles   = {"Frontend / Full-Stack Developer", "Data Analyst", "ML Engineer", "Business Analyst"};
+    String[] stack   = {"Java", "Python", "SQL", "JavaScript", "Flask", "Node.js", "React"};
+    String[] exploring = {"Spring Boot", "Advanced Java", "DSA", "Open Source", "Business Process Automation"};
 
-<table width="100%">
+    public String mission() {
+        return "Build useful software and turn data into decisions, and do it in public.";
+    }
+}
+```
+
+<table>
 <tr>
-<td width="33%" valign="top">
-<h3>Role fit</h3>
-<p>Frontend or full-stack engineer · HTML · Dart · Python</p>
+<td width="50%">
+
+### Currently
+- Analysing and transforming data with **SQL, Python & Excel** to solve business problems
+- Building, training and evaluating **ML models** on real-world datasets
+- Solving **DSA** problems and learning **Core Java, Advanced Java & Spring Boot**
+- Exploring **Git, GitHub, Open Source** and software engineering fundamentals
 </td>
-<td width="33%" valign="top">
-<h3>Public proof</h3>
-<p>19 repositories · 0 stars</p>
-</td>
-<td width="33%" valign="top">
-<h3>Momentum</h3>
-<p>466 contributions · 96 active days</p>
+<td width="50%">
+
+### What I Do
+- Perform **data analysis** and extract meaningful business insights
+- Build **dashboards & reports** for data-driven decision-making
+- Build **front ends** and connect them to back ends using **Node.js**
+- Work on **business process automation** and workflow optimization
 </td>
 </tr>
 </table>
 
----
+## Skills
 
-## Proof at a glance
+### Data Analysis & Business Intelligence
+`Data Cleaning` · `Data Wrangling` · `Exploratory Data Analysis (EDA)` · `Statistical Analysis` · `KPI Tracking` · `Data Visualization` · `Dashboard Development` · `Business Analysis` · `A/B Testing` · `Hypothesis Testing` · `ETL Processes`
 
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ayushkurhade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140232317%3Fu%3D274d1630de9cecf6ab2aec2b065877ad117c4c06%26v%3D4&v=recruiter-stats-1&mode=light" />
-<img src="https://www.gitskins.com/api/section/stats?username=ayushkurhade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140232317%3Fu%3D274d1630de9cecf6ab2aec2b065877ad117c4c06%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="stats" />
-</picture>
-</p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
----
+### SQL & Database Development
+`SQL` · `Joins` · `Subqueries` · `CTEs` · `Window Functions` · `Aggregations` · `Indexing` · `Query Optimization` · `Stored Procedures` · `Views` · `Database Design` · `Data Modeling`
 
-## Selected work
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ayushkurhade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140232317%3Fu%3D274d1630de9cecf6ab2aec2b065877ad117c4c06%26v%3D4&repos=ayushkurhade%2Fcrime-data-analysis%2Cayushkurhade%2FCustomer-Support-Ticket-Management-System%2Cayushkurhade%2FIPL-Win-Predictor%2Cayushkurhade%2FJava_learning&v=recruiter-projects-1&mode=light" />
-<img src="https://www.gitskins.com/api/section/projects?username=ayushkurhade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140232317%3Fu%3D274d1630de9cecf6ab2aec2b065877ad117c4c06%26v%3D4&repos=ayushkurhade%2Fcrime-data-analysis%2Cayushkurhade%2FCustomer-Support-Ticket-Management-System%2Cayushkurhade%2FIPL-Win-Predictor%2Cayushkurhade%2FJava_learning&v=recruiter-projects-1&mode=dark" width="100%" alt="projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/AyushKurhade/crime-data-analysis">crime-data-analysis</a></h3>
-<p>CrimeScope — an interactive Power BI dashboard analyzing simulated Indian crime data from 2018–2023. Visualizes crime trends and compares states.</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/AyushKurhade/crime-data-analysis">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+### Programming Languages
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/AyushKurhade/Customer-Support-Ticket-Management-System">Customer-Support-Ticket-Management-System</a></h3>
-<p>A web-based ticket system built with Python Flask and MySQL to create, assign, track, and resolve tickets with role-based features.</p>
-<p><sub>Python · ⭐ 0</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/AyushKurhade/IPL-Win-Predictor">IPL-Win-Predictor</a></h3>
-<p>An end‑to‑end IPL match prediction web app using Python, Flask, and Machine Learning to predict winning probabilities during the second innings.</p>
-<p><sub>Python · ⭐ 0</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/AyushKurhade/Java_learning">Java_learning</a></h3>
-<p>A Java learning repository covering core concepts, OOP, conditionals, operators, strings, collections, garbage collection, pattern printing, and DSA.</p>
-<p><sub>Java · ⭐ 0</sub></p>
-</td>
-</tr>
-</table>
+### Data Libraries
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
----
+### Machine Learning
+`Supervised Learning` · `Unsupervised Learning` · `Regression` · `Classification` · `Clustering` · `Linear Regression` · `Logistic Regression` · `Decision Trees` · `Random Forest` · `XGBoost` · `SVM` · `KNN` · `K-Means` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning`
 
-## Technical toolkit
+### Web & Full-Stack
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ayushkurhade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140232317%3Fu%3D274d1630de9cecf6ab2aec2b065877ad117c4c06%26v%3D4&v=recruiter-stack-1&mode=light" />
-<img src="https://www.gitskins.com/api/section/stack?username=ayushkurhade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140232317%3Fu%3D274d1630de9cecf6ab2aec2b065877ad117c4c06%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="stack" />
-</picture>
-</p>
+### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>23% of public code</sub></td>
-<td width="20%" align="center"><strong>Dart</strong><br /><sub>21% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>19% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>14% of public code</sub></td>
-<td width="20%" align="center"><strong>Java</strong><br /><sub>10% of public code</sub></td>
-</tr>
-</table>
+## My Workflow
 
-### 💻 Full Tech Stack
+```mermaid
+flowchart LR
+    A["SQL / MySQL<br>Query and Extract"] --> B["Cleaning and ETL<br>Pandas, NumPy"]
+    B --> C["EDA and Analysis<br>Matplotlib, Seaborn"]
+    C --> D["Dashboards and Reports<br>Power BI, Excel"]
+    C --> E["Modeling<br>scikit-learn, Random Forest"]
+    E --> F["Serve<br>Flask Web App"]
+    G["Frontend<br>HTML, CSS, JS, React"] --> H["Backend<br>Node.js, Spring Boot"]
+    H --> A
+```
 
-<p align="center">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<br />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-<br />
-<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+## Featured Projects
 
----
+| Project | Description | Tech |
+|---|---|---|
+| [**CrimeScope**](https://github.com/AyushKurhade/CrimeScope) | Interactive Power BI dashboard analysing simulated Indian crime data (2018–2023): crime trends, state and category comparisons, and case resolution rates | `Power BI` |
+| [**Customer Support Ticket Management System**](https://github.com/AyushKurhade/Customer-Support-Ticket-Management-System) | Web-based ticketing system to create, assign, track and resolve tickets, with role-based access and dashboards | `Python` `Flask` `MySQL` |
+| [**IPL Win Predictor**](https://github.com/AyushKurhade/IPL-Win-Predictor) | End-to-end ML web app that predicts winning probabilities during the second innings of an IPL match | `Python` `Flask` `scikit-learn` `Random Forest` |
+| [**LifeLink**](https://github.com/AyushKurhade/lifelink) | Emergency blood response app connecting patients with nearby donors in real time, with instant donor alerts and live maps | `Flutter` `Dart` `Firebase` |
+| [**FocusFlow Pomodoro**](https://github.com/AyushKurhade/Focusflow-pomodoro) | Interactive Pomodoro study timer with custom focus sessions, task tracking, study analytics, session history and daily goals | `HTML` `CSS` `JavaScript` |
+| [**Java Learning**](https://github.com/AyushKurhade/Java_learning) | Core Java concepts, OOP, strings, collections, garbage collection, pattern printing and DSA problems with notes | `Java` |
 
-## Consistency signal
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ayushkurhade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140232317%3Fu%3D274d1630de9cecf6ab2aec2b065877ad117c4c06%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-<img src="https://www.gitskins.com/api/section/heatmap?username=ayushkurhade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140232317%3Fu%3D274d1630de9cecf6ab2aec2b065877ad117c4c06%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="heatmap" />
-</picture>
-</p>
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=AyushKurhade&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://github-readme-stats.shion.dev/api?username=AyushKurhade&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=AyushKurhade&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=AyushKurhade&theme=default&hide_border=false&layout=compact" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AyushKurhade&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
 </picture>
 <br />
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AyushKurhade&theme=default&hide_border=false" />
-<img src="https://streak-stats.demolab.com/?user=AyushKurhade&theme=dark&hide_border=false" alt="GitHub streak" />
-</picture>
-<br />
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=AyushKurhade&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AyushKurhade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+<img src="https://streak-stats.demolab.com/?user=AyushKurhade&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </picture>
 </p>
 
----
-
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
 <picture>
@@ -194,43 +153,24 @@
 </picture>
 </p>
 
----
-
-## 🌐 Socials
-
-<p align="center">
-<a href="https://www.instagram.com/ayush_k_30"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://linkedin.com/in/ayushk30"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/32332866/cyrus-30"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
-<a href="https://x.com/ayush_k_030"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" /></a>&nbsp;
-<a href="https://discord.gg/pAak8W2yM"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
-<a href="https://in.pinterest.com/ayush_k_30/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=pinterest&logoColor=white" alt="Pinterest" /></a>&nbsp;
-<a href="https://www.reddit.com/user/Icy_Hall_2425/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white" alt="Reddit" /></a>&nbsp;
-<a href="mailto:aayushkurhade068@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
+## Let's Connect
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle">
-<h2>Let's talk about the next build</h2>
-<p>Open to thoughtful teams, ambitious products, and useful engineering work.</p>
-</td>
-<td width="38%" valign="middle" align="right">
-<a href="https://github.com/AyushKurhade">GitHub</a><br />
-<a href="https://x.com/ayush_k_030">X</a><br />
-<a href="https://linkedin.com/in/ayushk30">LinkedIn</a>
-</td>
-</tr>
-</table>
+<a href="mailto:aayushkurhade068@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/ayushk30"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/ayush_k_030"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.instagram.com/ayush_k_30"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://stackoverflow.com/users/32332866/cyrus-30"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://discord.gg/pAak8W2yM"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://in.pinterest.com/ayush_k_30/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+<a href="https://www.reddit.com/user/Icy_Hall_2425/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+<a href="https://github.com/AyushKurhade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Open+to+thoughtful+teams%2C+ambitious+products+%26+useful+engineering+work;Open+to+Full-Stack+%7C+Data+Analyst+%7C+ML+opportunities" alt="Footer typing SVG" />
 
 </div>
 
-<p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=AyushKurhade&icon=0&color=0" alt="Profile views" /></a>
-</p>
-
-<p align="center"><sub>Ayush Kurhade · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1B9AAA,100:0E75B6&height=110&section=footer" width="100%" alt="footer" />
